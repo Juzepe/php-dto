@@ -1,0 +1,16 @@
+{
+    "name": "juzepe/php-dto",
+    "description": "DTO for PHP",
+    "autoload": {
+        "psr-4": {
+            "Juzepe\\PhpDto\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Giorgi Baghashvili",
+            "email": "giorgibaghashvili@gmail.com"
+        }
+    ],
+    "require": {}
+}
